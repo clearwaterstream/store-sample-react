@@ -12,4 +12,4 @@ Ideas taken from React-Redux template from VS 2017 as well as [React-online-cour
 * Common controls or utils can live in a shared folder so they can be leveraged in multiple features
 * Logic (non-ui components) should be reusable in React Native, all the more reason to separate the dumb UI components out
 * Paths (more then 1 level deep) should be absolute. This allows for easier refactoring
-* All components referenced (in packages.json) can be auto-updated to a minor version. This will prevent surprises CI pipline will always do an ```npm install``` during build, whereas individual developers may seldomly run the command. When / if bugs occur, such issues are hard to t-shoot
+* All components referenced (in packages.json) can be auto-updated to a minor version. This will prevent surprises as CD pipline will always do an ```npm install``` during a build, whereas individual developers may seldomly run the command. When / if bugs occur, such issues are hard to t-shoot
