@@ -4,7 +4,7 @@ Bootstraped with [Create React App](https://github.com/facebook/create-react-app
 
 Ideas taken from React-Redux template from VS 2017 as well as [React-online-course](https://github.com/jsmegatools/React-online-course) by Sergey Smolin 
 
-Basic principles:
+**Basic principles**:
 
 * Dumb components: the UI components (or views) should only be concerned with rendering HTML and getting input (etc), they should not have knowledge outside of "props" (props is a local state endemic to each view)
 * State-to-view binding is done *outside* the component (done in containers)
