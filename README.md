@@ -2,7 +2,7 @@
 
 Bootstraped with [Create React App](https://github.com/facebook/create-react-app).
 
-Ideas taken from React-Redux template from VS 2017 as well as [React-online-course](https://github.com/jsmegatools/React-online-course) by Sergey Smolin 
+Ideas taken from React-Redux template from VS 2017 as well as [React-online-course](https://github.com/jsmegatools/React-online-course) by Sergey Smolin.
 
 **Basic principles**:
 
